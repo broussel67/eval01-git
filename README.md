@@ -5,4 +5,3 @@ plan d'adressage et inventaire des postes.
 
 Copie de travail préparée pour : broussel
 
-Relu sur GitHub par broussel67.
